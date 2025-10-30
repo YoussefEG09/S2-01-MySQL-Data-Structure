@@ -108,7 +108,7 @@ Git / GitHub for version control
 
 Clone this repository:
 
-git clone https://github.com/<tu_usuario>/S2-01-MySQL-Data-Structure.git
+git clone https://github.com/YoussefEG09/S2-01-MySQL-Data-Structure.git
 
 
 Navigate to the project folder:
